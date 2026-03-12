@@ -15,3 +15,8 @@ Contributing to AI tooling and agent infrastructure this week.
 - TypeScript developer tooling
 - agent workflows and infrastructure
 - AI tooling docs, DX, and small safe OSS fixes
+
+## Cross-Repo Activity
+
+- [modelcontextprotocol/typescript-sdk#1639](https://github.com/modelcontextprotocol/typescript-sdk/issues/1639#issuecomment-4049497845) - confirmed the current npm/package-name mismatch with fresh registry and repo evidence
+- [modelcontextprotocol/typescript-sdk#509](https://github.com/modelcontextprotocol/typescript-sdk/issues/509#issuecomment-4050052339) - clarified that the posted repro uses the wrong MCP request shape and skips initialization
