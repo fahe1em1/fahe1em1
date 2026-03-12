@@ -1,16 +1,14 @@
-## Hi there 👋
+# Faheem Naseer
 
-<!--
-**fahe1em1/fahe1em1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Contributing to AI tooling and agent infrastructure this week.
 
-Here are some ideas to get you started:
+## Current OSS Sprint
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [continuedev/continue#11352](https://github.com/continuedev/continue/pull/11352) - documented the full Continue CLI slash command set in TUI mode
+- [continuedev/continue#11353](https://github.com/continuedev/continue/pull/11353) - added a new CLI hooks guide and linked it in the docs navigation
+
+## Focus Areas
+
+- TypeScript developer tooling
+- agent workflows and infrastructure
+- documentation, DX, and small safe OSS fixes
