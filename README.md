@@ -1,6 +1,12 @@
 # Faheem Naseer
 
-Contributing to AI tooling and agent infrastructure this week.
+Building practical AI and automation tools for care operations, invoice control, and developer workflows.
+
+## Paid Workflow Prototypes
+
+- [care-invoice-audit-kit](https://github.com/fahe1em1/care-invoice-audit-kit) - anonymised demo tool for checking care visit exports against purchase orders, weekly caps, invoice groups, rates, and non-billable rows before invoices are sent.
+
+For paid implementation work, contact: `engr.faheem2@gmail.com`
 
 ## Current OSS Sprint
 
